@@ -1,4 +1,4 @@
-# TabScroller
+# GuitarTabScroller
 
 A minimalist macOS app that scrolls guitar tab and sheet music PDFs hands-free — either at a steady speed, or triggered by a sound cue you record yourself (a click, a stomp, a spoken word).
 
